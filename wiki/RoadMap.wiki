@@ -13,4 +13,5 @@
 
 = v2.0 =
 
-  * _TBD_
+  * Bluetooth communication support (?)
+  * Trip odometer support (?)
