@@ -1,0 +1,13 @@
+#summary Development Resources
+#labels Featured
+
+= Original Concept =
+
+  * [http://stackoverflow.com/questions/1197091/serial-gps-as-speedometer Serial GPS as Speedometer]
+  * [http://lists.newtontalk.net/pipermail/newtontalk/2010-June/003707.html [NTLK] Serial GPS & Newton as Speedometer]
+
+= GPS =
+
+  * [http://myapplenewton.blogspot.com/2009/06/apple-newton-gps-hardware-compatibility.html Apple Newton GPS Hardware Compatibility List]
+  * [http://www.gpsinformation.org/dale/nmea.htm NMEA Data] ([http://www.gpsinformation.org/dale/nmea.htm#VTG VTG])
+  * [http://gpsd.berlios.de/gps-hacking.html ESR's Guide to Hacking With GPS]
