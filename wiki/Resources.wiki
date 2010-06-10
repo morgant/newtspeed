@@ -4,7 +4,7 @@
 = Original Concept =
 
   * [http://stackoverflow.com/questions/1197091/serial-gps-as-speedometer Serial GPS as Speedometer]
-  * [http://lists.newtontalk.net/pipermail/newtontalk/2010-June/003707.html [NTLK] Serial GPS & Newton as Speedometer]
+  * [http://lists.newtontalk.net/pipermail/newtontalk/2010-June/003707.html NTLK: Serial GPS & Newton as Speedometer]
 
 = GPS =
 
