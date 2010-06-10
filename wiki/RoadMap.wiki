@@ -1,5 +1,5 @@
 #summary Newtspeed Development Roadmap
-#labels Featured
+#labels Phase-Requirements,Featured
 
 = v1.0 =
 
