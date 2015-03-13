@@ -1,0 +1,1 @@
+GPS speedometer package for Newton OS 2.1. See the [Development Roadmap](RoadMap.md) for target features.
